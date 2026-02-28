@@ -10,7 +10,8 @@ The **Gateway Watchdog** ensures high availability of the OpenClaw Gateway daemo
 - **Logging & Alerting:** Integrates with your workspace `HEARTBEAT.md` lifecycle to log any recovery events.
 
 ## Installation
-Da der Skill noch nicht im öffentlichen ClawHub Register ist, installiere ihn über GitHub:
+Since the skill is not yet available on the public ClawHub registry, install it directly from GitHub:
+
 ```bash
 cd ~/.openclaw/workspace/skills
 git clone https://github.com/Easyo0ai/gateway-watchdog-skill.git gateway-watchdog
