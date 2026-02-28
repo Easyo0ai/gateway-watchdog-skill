@@ -1,0 +1,19 @@
+{
+  "name": "gateway-watchdog",
+  "version": "1.0.0",
+  "description": "Enterprise-grade OpenClaw Gateway Watchdog. Monitors the Gateway service and automatically restarts it upon unexpected crashes or downtime, ensuring high availability and continuous operation.",
+  "author": "Easy",
+  "license": "MIT",
+  "keywords": [
+    "openclaw",
+    "gateway",
+    "watchdog",
+    "healthcheck",
+    "reliability",
+    "auto-restart",
+    "security"
+  ],
+  "engines": {
+    "openclaw": ">=0.1.0"
+  }
+}
